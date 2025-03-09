@@ -55,6 +55,6 @@ This project is open-source and available under the **MIT License**.
 
 ## Contact
 For questions or suggestions, reach out to:
-- **GitHub**: ThimothiBathula
+- **GitHub**: [ThimothiBathula](https://github.com/ThimothiBathula)
 - **Email**: btt6303273@gmail.com
 
